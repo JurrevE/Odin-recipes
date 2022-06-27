@@ -1,0 +1,41 @@
+.bgh1 {
+    color: aquamarine;
+    background-color: #5FE396;
+    font-size: 80px;
+    font-family: "Calendas Plus" sans-serif;
+    text-align: center;
+}
+.center  {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+.bgpage  {
+    color: yellow;
+    font-size: 40px;
+    font-family:"Courier-new" Serif;
+    text-align: center;
+}
+.noodletitle {
+    background-color: black;
+    color:yellow;
+    font-size: 30px;
+}
+
+.noodlepic {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+.noodleh4  {
+    color: aquamarine;
+}
+
+.gobacknoodles {
+    margin: auto;
+    width: 50%;
+
+    padding: 10px;
+}
